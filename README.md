@@ -9,8 +9,8 @@ The program can also be used to serve for data handling and keeping their record
 The program saves the  student data  and their fee data  in their respective files.The program is also  flexible and the user can change or add any feature according to their demand.
 The files are stored as a .dat file in the same directory as the program.
 
-1. Create record: This feature creates a new student records. For this the information to be provided are the admission  number  ,                  name, age , father’s name , mother’s name .
+1. Create record: This feature creates a new student records. For this the information to be provided are the admission  number  , name, age , father’s name , mother’s name .
 
 2.View records: This program also helps in reviewing the student’s data and their fee record. 
 
-3. Modify records: It also serves for modification of the student’s data and the fee calculation
+3. Modify records: It also serves for modification of the student’s data and the fee calculation.
